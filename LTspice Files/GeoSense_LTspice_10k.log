@@ -1,8 +1,8 @@
 LTspice 24.0.12 for Windows
-Circuit: * C:\Users\zanea\Documents\GitHub\GeoSense\LTspice Files\GeoSense_LTspice_10k.asc
-Start Time: Sun Jan  5 10:01:41 2025
+Circuit: * C:\Users\zanea\OneDrive\Documents\GitHub\GeoSense\LTspice Files\GeoSense_LTspice_10k.asc
+Start Time: Sun Jan 12 13:33:48 2025
 solver = Normal
-Maximum thread count: 8
+Maximum thread count: 16
 tnom = 27
 temp = 27
 method = modified trap
@@ -26,7 +26,7 @@ Instance "m:u3:5": Length shorter than recommended for a level 2 MOSFET.
 Instance "m:u3:6": Length shorter than recommended for a level 2 MOSFET.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
-Singular matrix:  Check node u1:4
+Singular matrix:  Check node u1:6
    Iteration No. 84
 Initial Gmin=10 failed
 Gmin stepping failed
@@ -34,8 +34,8 @@ Gmin stepping failed
 Starting source stepping with srcstepmethod=0
 Source Step = 3.0303%
 vernier = 0.25
-Singular matrix:  Check node u1:11
-   Iteration No. 26
+Singular matrix:  Check node u3:8
+   Iteration No. 24
 Source Step = 0.0177557%
 Starting source stepping with srcstepmethod=1
 Source Step = 3.0303%
@@ -48,5 +48,5 @@ Changing Tseed to 1e-09
 Changing Tseed to 1e-06
 Changing Tseed to 1e-10
 to 1.01563e-10
-Total elapsed time: 0.587 seconds.
+Total elapsed time: 0.706 seconds.
 
