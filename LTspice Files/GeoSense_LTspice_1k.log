@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\zanea\OneDrive\Documents\GitHub\GeoSense\LTspice Files\GeoSense_LTspice_1k.asc
-Start Time: Sun Jan 12 13:31:56 2025
+Start Time: Sat Jan 25 11:04:00 2025
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -60,5 +60,5 @@ Trouble finding operating point....skipping operating point for Transient analys
 Changing Tseed to 1e-07
 Changing Tseed to 1e-09
 to 1.125e-09
-Total elapsed time: 0.492 seconds.
+Total elapsed time: 0.486 seconds.
 
