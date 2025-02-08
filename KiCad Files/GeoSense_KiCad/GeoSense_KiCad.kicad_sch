@@ -5,7 +5,7 @@
 	(uuid "4306debd-181b-47b9-9107-2cbe024dbb09")
 	(paper "A3")
 	(title_block
-		(title "GeoSense 8 modual sensing circuit")
+		(title "GeoSense 8 module sensing circuit")
 		(date "2025-01-14")
 		(rev "1")
 	)
@@ -18296,46 +18296,46 @@
 			)
 		)
 		(pin "2"
-			(uuid "f8d3da78-138c-4968-99f6-b9a03eadb287")
+			(uuid "f8d3da78-138c-4968-99f6-b9a03eadb289")
 		)
 		(pin "6"
-			(uuid "018a2700-2dd3-4d32-ba23-193dcdc57109")
+			(uuid "018a2700-2dd3-4d32-ba23-193dcdc5710b")
 		)
 		(pin "12"
 			(uuid "44e76084-7391-42fb-93ad-3b1cddc5ba86")
 		)
 		(pin "4"
-			(uuid "304d5b9a-12af-4917-878a-4af8c1aad52b")
+			(uuid "304d5b9a-12af-4917-878a-4af8c1aad52d")
 		)
 		(pin "8"
-			(uuid "7ee3db8f-563b-404e-9885-3c682528b257")
+			(uuid "7ee3db8f-563b-404e-9885-3c682528b259")
 		)
 		(pin "1"
-			(uuid "6f8ca3fa-0eaf-4c36-9904-360588d18e95")
+			(uuid "6f8ca3fa-0eaf-4c36-9904-360588d18e97")
 		)
 		(pin "11"
-			(uuid "0afa138c-47cd-4b57-8a47-f2bc0cea7567")
+			(uuid "0afa138c-47cd-4b57-8a47-f2bc0cea7569")
 		)
 		(pin "10"
-			(uuid "de5b83ef-5658-46b5-bfde-7639828a0532")
+			(uuid "de5b83ef-5658-46b5-bfde-7639828a0534")
 		)
 		(pin "13"
 			(uuid "a6e2ed18-dc75-432f-aad3-72ab07198756")
 		)
 		(pin "5"
-			(uuid "f5d3e933-3094-4bff-a671-77e1dc592e90")
+			(uuid "f5d3e933-3094-4bff-a671-77e1dc592e92")
 		)
 		(pin "14"
 			(uuid "9e779094-3d5c-4b1e-ab31-c7d56b8d3e85")
 		)
 		(pin "3"
-			(uuid "9fbbf18b-0007-4e36-9d8c-f52e8fa9d5b9")
+			(uuid "9fbbf18b-0007-4e36-9d8c-f52e8fa9d5bb")
 		)
 		(pin "9"
-			(uuid "88b69d7d-dab1-4883-805a-701702ee7a2a")
+			(uuid "88b69d7d-dab1-4883-805a-701702ee7a2c")
 		)
 		(pin "7"
-			(uuid "f145b2c5-dee7-4feb-a901-664c2d593e65")
+			(uuid "f145b2c5-dee7-4feb-a901-664c2d593e67")
 		)
 		(instances
 			(project "GeoSense_KiCad"
@@ -20348,46 +20348,46 @@
 			)
 		)
 		(pin "2"
-			(uuid "f8d3da78-138c-4968-99f6-b9a03eadb286")
+			(uuid "f8d3da78-138c-4968-99f6-b9a03eadb28a")
 		)
 		(pin "6"
-			(uuid "018a2700-2dd3-4d32-ba23-193dcdc57108")
+			(uuid "018a2700-2dd3-4d32-ba23-193dcdc5710c")
 		)
 		(pin "12"
 			(uuid "aeba9722-fa67-4359-93d0-b1ff214c324b")
 		)
 		(pin "4"
-			(uuid "304d5b9a-12af-4917-878a-4af8c1aad52a")
+			(uuid "304d5b9a-12af-4917-878a-4af8c1aad52e")
 		)
 		(pin "8"
-			(uuid "7ee3db8f-563b-404e-9885-3c682528b256")
+			(uuid "7ee3db8f-563b-404e-9885-3c682528b25a")
 		)
 		(pin "1"
-			(uuid "6f8ca3fa-0eaf-4c36-9904-360588d18e94")
+			(uuid "6f8ca3fa-0eaf-4c36-9904-360588d18e98")
 		)
 		(pin "11"
-			(uuid "0afa138c-47cd-4b57-8a47-f2bc0cea7566")
+			(uuid "0afa138c-47cd-4b57-8a47-f2bc0cea756a")
 		)
 		(pin "10"
-			(uuid "de5b83ef-5658-46b5-bfde-7639828a0531")
+			(uuid "de5b83ef-5658-46b5-bfde-7639828a0535")
 		)
 		(pin "13"
 			(uuid "7fdaf539-fbb2-4f8b-a650-27b9105c68f5")
 		)
 		(pin "5"
-			(uuid "f5d3e933-3094-4bff-a671-77e1dc592e8f")
+			(uuid "f5d3e933-3094-4bff-a671-77e1dc592e93")
 		)
 		(pin "14"
 			(uuid "639c88ee-0e9a-4b90-abd6-648ab5674ee7")
 		)
 		(pin "3"
-			(uuid "9fbbf18b-0007-4e36-9d8c-f52e8fa9d5b8")
+			(uuid "9fbbf18b-0007-4e36-9d8c-f52e8fa9d5bc")
 		)
 		(pin "9"
-			(uuid "88b69d7d-dab1-4883-805a-701702ee7a29")
+			(uuid "88b69d7d-dab1-4883-805a-701702ee7a2d")
 		)
 		(pin "7"
-			(uuid "f145b2c5-dee7-4feb-a901-664c2d593e64")
+			(uuid "f145b2c5-dee7-4feb-a901-664c2d593e68")
 		)
 		(instances
 			(project ""
@@ -21746,46 +21746,46 @@
 			)
 		)
 		(pin "2"
-			(uuid "f8d3da78-138c-4968-99f6-b9a03eadb286")
+			(uuid "f8d3da78-138c-4968-99f6-b9a03eadb28b")
 		)
 		(pin "6"
-			(uuid "018a2700-2dd3-4d32-ba23-193dcdc57108")
+			(uuid "018a2700-2dd3-4d32-ba23-193dcdc5710d")
 		)
 		(pin "12"
 			(uuid "f82a6779-aa1b-46e9-882a-ae8221442891")
 		)
 		(pin "4"
-			(uuid "304d5b9a-12af-4917-878a-4af8c1aad52a")
+			(uuid "304d5b9a-12af-4917-878a-4af8c1aad52f")
 		)
 		(pin "8"
-			(uuid "7ee3db8f-563b-404e-9885-3c682528b256")
+			(uuid "7ee3db8f-563b-404e-9885-3c682528b25b")
 		)
 		(pin "1"
-			(uuid "6f8ca3fa-0eaf-4c36-9904-360588d18e94")
+			(uuid "6f8ca3fa-0eaf-4c36-9904-360588d18e99")
 		)
 		(pin "11"
-			(uuid "0afa138c-47cd-4b57-8a47-f2bc0cea7566")
+			(uuid "0afa138c-47cd-4b57-8a47-f2bc0cea756b")
 		)
 		(pin "10"
-			(uuid "de5b83ef-5658-46b5-bfde-7639828a0531")
+			(uuid "de5b83ef-5658-46b5-bfde-7639828a0536")
 		)
 		(pin "13"
 			(uuid "56978752-375e-409c-98ce-2abcb5ba9fe9")
 		)
 		(pin "5"
-			(uuid "f5d3e933-3094-4bff-a671-77e1dc592e8f")
+			(uuid "f5d3e933-3094-4bff-a671-77e1dc592e94")
 		)
 		(pin "14"
 			(uuid "f22c39d4-ea27-466a-9984-f8145df237dc")
 		)
 		(pin "3"
-			(uuid "9fbbf18b-0007-4e36-9d8c-f52e8fa9d5b8")
+			(uuid "9fbbf18b-0007-4e36-9d8c-f52e8fa9d5bd")
 		)
 		(pin "9"
-			(uuid "88b69d7d-dab1-4883-805a-701702ee7a29")
+			(uuid "88b69d7d-dab1-4883-805a-701702ee7a2e")
 		)
 		(pin "7"
-			(uuid "f145b2c5-dee7-4feb-a901-664c2d593e64")
+			(uuid "f145b2c5-dee7-4feb-a901-664c2d593e69")
 		)
 		(instances
 			(project "GeoSense_KiCad"
@@ -22229,46 +22229,46 @@
 			)
 		)
 		(pin "2"
-			(uuid "f8d3da78-138c-4968-99f6-b9a03eadb286")
+			(uuid "f8d3da78-138c-4968-99f6-b9a03eadb28c")
 		)
 		(pin "6"
-			(uuid "018a2700-2dd3-4d32-ba23-193dcdc57108")
+			(uuid "018a2700-2dd3-4d32-ba23-193dcdc5710e")
 		)
 		(pin "12"
 			(uuid "560b3c13-c103-401c-84d5-66b850b94295")
 		)
 		(pin "4"
-			(uuid "304d5b9a-12af-4917-878a-4af8c1aad52a")
+			(uuid "304d5b9a-12af-4917-878a-4af8c1aad530")
 		)
 		(pin "8"
-			(uuid "7ee3db8f-563b-404e-9885-3c682528b256")
+			(uuid "7ee3db8f-563b-404e-9885-3c682528b25c")
 		)
 		(pin "1"
-			(uuid "6f8ca3fa-0eaf-4c36-9904-360588d18e94")
+			(uuid "6f8ca3fa-0eaf-4c36-9904-360588d18e9a")
 		)
 		(pin "11"
-			(uuid "0afa138c-47cd-4b57-8a47-f2bc0cea7566")
+			(uuid "0afa138c-47cd-4b57-8a47-f2bc0cea756c")
 		)
 		(pin "10"
-			(uuid "de5b83ef-5658-46b5-bfde-7639828a0531")
+			(uuid "de5b83ef-5658-46b5-bfde-7639828a0537")
 		)
 		(pin "13"
 			(uuid "6e1368f9-5f70-4c67-9ace-f59d34b4603d")
 		)
 		(pin "5"
-			(uuid "f5d3e933-3094-4bff-a671-77e1dc592e8f")
+			(uuid "f5d3e933-3094-4bff-a671-77e1dc592e95")
 		)
 		(pin "14"
 			(uuid "96dab46f-632d-4c65-b50d-250e87d4c259")
 		)
 		(pin "3"
-			(uuid "9fbbf18b-0007-4e36-9d8c-f52e8fa9d5b8")
+			(uuid "9fbbf18b-0007-4e36-9d8c-f52e8fa9d5be")
 		)
 		(pin "9"
-			(uuid "88b69d7d-dab1-4883-805a-701702ee7a29")
+			(uuid "88b69d7d-dab1-4883-805a-701702ee7a2f")
 		)
 		(pin "7"
-			(uuid "f145b2c5-dee7-4feb-a901-664c2d593e64")
+			(uuid "f145b2c5-dee7-4feb-a901-664c2d593e6a")
 		)
 		(instances
 			(project "GeoSense_KiCad"
@@ -24699,46 +24699,46 @@
 			)
 		)
 		(pin "2"
-			(uuid "f8d3da78-138c-4968-99f6-b9a03eadb289")
+			(uuid "f8d3da78-138c-4968-99f6-b9a03eadb28d")
 		)
 		(pin "6"
-			(uuid "018a2700-2dd3-4d32-ba23-193dcdc5710b")
+			(uuid "018a2700-2dd3-4d32-ba23-193dcdc5710f")
 		)
 		(pin "12"
 			(uuid "c52daa34-bd2f-4196-b1c4-176143ca1bb0")
 		)
 		(pin "4"
-			(uuid "304d5b9a-12af-4917-878a-4af8c1aad52d")
+			(uuid "304d5b9a-12af-4917-878a-4af8c1aad531")
 		)
 		(pin "8"
-			(uuid "7ee3db8f-563b-404e-9885-3c682528b259")
+			(uuid "7ee3db8f-563b-404e-9885-3c682528b25d")
 		)
 		(pin "1"
-			(uuid "6f8ca3fa-0eaf-4c36-9904-360588d18e97")
+			(uuid "6f8ca3fa-0eaf-4c36-9904-360588d18e9b")
 		)
 		(pin "11"
-			(uuid "0afa138c-47cd-4b57-8a47-f2bc0cea7569")
+			(uuid "0afa138c-47cd-4b57-8a47-f2bc0cea756d")
 		)
 		(pin "10"
-			(uuid "de5b83ef-5658-46b5-bfde-7639828a0534")
+			(uuid "de5b83ef-5658-46b5-bfde-7639828a0538")
 		)
 		(pin "13"
 			(uuid "53f0eb2c-136d-4af0-a0e6-3efd918fb728")
 		)
 		(pin "5"
-			(uuid "f5d3e933-3094-4bff-a671-77e1dc592e92")
+			(uuid "f5d3e933-3094-4bff-a671-77e1dc592e96")
 		)
 		(pin "14"
 			(uuid "a04f3782-443a-4e74-8292-d97a976387dc")
 		)
 		(pin "3"
-			(uuid "9fbbf18b-0007-4e36-9d8c-f52e8fa9d5bb")
+			(uuid "9fbbf18b-0007-4e36-9d8c-f52e8fa9d5bf")
 		)
 		(pin "9"
-			(uuid "88b69d7d-dab1-4883-805a-701702ee7a2c")
+			(uuid "88b69d7d-dab1-4883-805a-701702ee7a30")
 		)
 		(pin "7"
-			(uuid "f145b2c5-dee7-4feb-a901-664c2d593e67")
+			(uuid "f145b2c5-dee7-4feb-a901-664c2d593e6b")
 		)
 		(instances
 			(project "GeoSense_KiCad"
