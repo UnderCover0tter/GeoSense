@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\zanea\Documents\GitHub\GeoSense\LTspice Files\GeoSense_LTspice_10k.asc
-Start Time: Wed Feb  5 07:55:07 2025
+Start Time: Wed Feb  5 09:51:47 2025
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -48,5 +48,5 @@ Changing Tseed to 1e-09
 Changing Tseed to 1e-06
 Changing Tseed to 1e-10
 to 1.01563e-10
-Total elapsed time: 0.645 seconds.
+Total elapsed time: 0.806 seconds.
 
