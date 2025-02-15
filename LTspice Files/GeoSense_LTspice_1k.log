@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\zanea\OneDrive\Documents\GitHub\GeoSense\LTspice Files\GeoSense_LTspice_1k.asc
-Start Time: Wed Feb 12 20:28:17 2025
+Start Time: Fri Feb 14 23:17:18 2025
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -24,41 +24,8 @@ Instance "m:u3:3": Length shorter than recommended for a level 2 MOSFET.
 Instance "m:u3:4": Length shorter than recommended for a level 2 MOSFET.
 Instance "m:u3:5": Length shorter than recommended for a level 2 MOSFET.
 Instance "m:u3:6": Length shorter than recommended for a level 2 MOSFET.
-Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
-Starting Gmin stepping
-Increasing initial diagonal Gmin to 100
-Increasing initial diagonal Gmin to 1000
-Increasing initial diagonal Gmin to 10000
-Increasing initial diagonal Gmin to 100000
-Increasing initial diagonal Gmin to 1e+06
-Initial Gmin=1e+06 failed
-Gmin stepping failed
-
-Starting source stepping with srcstepmethod=0
-Source Step = 3.0303%
-vernier = 0.25
-Singular matrix:  Check node u1:8
-   Iteration No. 40
-Singular matrix:  Check node u1:8
-   Iteration No. 1
-Singular matrix:  Check node u1:8
-   Iteration No. 1
-Singular matrix:  Check node u3:8
-   Iteration No. 40
-Singular matrix:  Check node u1:8
-   Iteration No. 1
-Singular matrix:  Check node u1:8
-   Iteration No. 104
-Singular matrix:  Check node u1:8
-   Iteration No. 1
-Starting source stepping with srcstepmethod=1
-Source Step = 3.0303%
-Source stepping failed
-
-Pseudo Transient failed in finding the operating point at 5 µs.
-Trouble finding operating point....skipping operating point for Transient analysis.
-Changing Tseed to 1e-07
-Changing Tseed to 1e-09
-to 1.125e-09
-Total elapsed time: 0.499 seconds.
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 1e-08
+Changing Tseed to 1e-10
+Total elapsed time: 0.081 seconds.
 
