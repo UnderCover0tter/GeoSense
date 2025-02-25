@@ -1,8 +1,8 @@
 LTspice 24.0.12 for Windows
-Circuit: * C:\Users\zanea\Documents\GitHub\GeoSense\LTspice Files\GeoSense_LTspice_10k.asc
-Start Time: Mon Feb 17 09:01:08 2025
+Circuit: * C:\Users\zanea\OneDrive\Documents\GitHub\GeoSense\LTspice Files\GeoSense_LTspice_10k.asc
+Start Time: Mon Feb 17 15:44:11 2025
 solver = Normal
-Maximum thread count: 8
+Maximum thread count: 16
 tnom = 27
 temp = 27
 method = modified trap
@@ -27,5 +27,5 @@ Instance "m:u3:6": Length shorter than recommended for a level 2 MOSFET.
 Per .tran options, skipping operating point for transient analysis.
 Changing Tseed to 1e-08
 Changing Tseed to 1e-10
-Total elapsed time: 0.276 seconds.
+Total elapsed time: 0.162 seconds.
 
