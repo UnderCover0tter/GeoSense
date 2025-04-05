@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*
+G04 #@! TF.CreationDate,2025-04-05T17:14:40-04:00*
+G04 #@! TF.ProjectId,GeoSence_KiCad_singal_module,47656f53-656e-4636-955f-4b694361645f,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-04-05 17:14:40*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.050000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X76500000Y-39000000D02*
+X126500000Y-39000000D01*
+X126500000Y-69000000D01*
+X76500000Y-69000000D01*
+X76500000Y-39000000D01*
+M02*
