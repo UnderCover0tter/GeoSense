@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
-Circuit: * C:\Users\zanea\Documents\GitHub\GeoSense\LTspice Files\Draft1.asc
-Start Time: Wed Mar 12 16:19:52 2025
+Circuit: * C:\Users\zanea\Documents\GitHub\GeoSense\LTspice Files\alternate circuit with 1mA current source.asc
+Start Time: Thu Mar 13 15:25:52 2025
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -24,8 +24,26 @@ Instance "m:u3:3": Length shorter than recommended for a level 2 MOSFET.
 Instance "m:u3:4": Length shorter than recommended for a level 2 MOSFET.
 Instance "m:u3:5": Length shorter than recommended for a level 2 MOSFET.
 Instance "m:u3:6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u4:1": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u4:2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u4:3": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u4:4": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u4:5": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u4:6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u5:1": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u5:2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u5:3": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u5:4": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u5:5": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u5:6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u6:1": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u6:2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u6:3": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u6:4": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u6:5": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u6:6": Length shorter than recommended for a level 2 MOSFET.
 Per .tran options, skipping operating point for transient analysis.
 Changing Tseed to 1e-08
 Changing Tseed to 1e-10
-Total elapsed time: 0.108 seconds.
+Total elapsed time: 0.144 seconds.
 
